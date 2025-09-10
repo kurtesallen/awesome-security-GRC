@@ -280,7 +280,7 @@ Added to that, each country would have specific cybersecurity regulations and st
 
 * [*AJ Yawn*](https://www.linkedin.com/in/troyhunt/), GRC general knowledge and SOC focus.
 
-* [*Aron Lange*](https://www.linkedin.com/in/ajyawn/), ISO 27001 focus.
+* [*Aron Lange*](https://www.linkedin.com/in/aronlange/), ISO 27001 focus.
 
 * [*Jacob Horne*](https://www.linkedin.com/in/jacob-evan-horne/), NIST and CMMC focus.
 
